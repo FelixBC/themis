@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  league: one
+  game_date: 2025-05-20
+  game_time: 2025-05-20 16:11:35
+  home_team: one
+  away_team: one
+  location: MyString
+
+two:
+  league: two
+  game_date: 2025-05-20
+  game_time: 2025-05-20 16:11:35
+  home_team: two
+  away_team: two
+  location: MyString

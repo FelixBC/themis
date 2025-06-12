@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dateEvent: 2023-12-15
+  timeEvent: 2023-12-15 16:58:25
+  currentDate: 2023-12-15 16:58:25
+  description: MyString
+
+two:
+  name: MyString
+  dateEvent: 2023-12-15
+  timeEvent: 2023-12-15 16:58:25
+  currentDate: 2023-12-15 16:58:25
+  description: MyString

@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trackingNumber: MyString
+  supplierID: 1
+  userID: 1
+  totalOrder: 9.99
+  deliveryDate: 2023-12-16 13:18:21
+  realArrivalDate: 2023-12-16 13:18:21
+  paymentMethodID: 1
+  status: MyString
+
+two:
+  trackingNumber: MyString
+  supplierID: 1
+  userID: 1
+  totalOrder: 9.99
+  deliveryDate: 2023-12-16 13:18:21
+  realArrivalDate: 2023-12-16 13:18:21
+  paymentMethodID: 1
+  status: MyString

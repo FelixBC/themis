@@ -1,0 +1,35 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  game: one
+  team: one
+  pitcher: one
+  is_starter: false
+  decision: MyString
+  gp_record: MyString
+  era: 9.99
+  hits_allowed: 1
+  runs_allowed: 1
+  walks: 1
+  strikeouts: 1
+  last_gp_record: MyString
+  last_era: 9.99
+  route: MyString
+  opponent: MyString
+
+two:
+  game: two
+  team: two
+  pitcher: two
+  is_starter: false
+  decision: MyString
+  gp_record: MyString
+  era: 9.99
+  hits_allowed: 1
+  runs_allowed: 1
+  walks: 1
+  strikeouts: 1
+  last_gp_record: MyString
+  last_era: 9.99
+  route: MyString
+  opponent: MyString
