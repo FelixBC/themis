@@ -300,48 +300,6 @@ const showLogoutConfirmation = () => {
     router.push('/');
   });
 };
-const goToSectorList = (): void => {
-  router.push('/SectorList');
-};
-const goToSectorCreate = (): void => {
-  router.push('/SectorCreate');
-};
-const goToProductList = (): void => {
-  router.push('/ProductList');
-};
-const goToProductCreate = (): void => {
-  router.push('/ProductCreate');
-};
-const goToAuthorsList = (): void => {
-  router.push('/AuthorsList');
-};
-const goToAuthorsCreate = (): void => {
-  router.push('/AuthorsCreate');
-};
-const goToSupplierCategoriesList = (): void => {
-  router.push('/SupplierCategoriesList');
-};
-const goToSuplierCategoriesCreate = (): void => {
-  router.push('/SuplierCategoriesCreate');
-};
-const goToSupplierTypeList = (): void => {
-  router.push('/SupplierTypeList');
-};
-const goToSuplierTypeCreate = (): void => {
-  router.push('/SuplierTypeCreate');
-};
-const goToEventsList = (): void => {
-  router.push('/EventsList');
-};
-const goToEventsCreate = (): void => {
-  router.push('/EventsCreate');
-};
-const goToReservationsList = (): void => {
-  router.push('/ReservationsList');
-};
-const goToReservationsCreate = (): void => {
-  router.push('/ReservationsCreate');
-};
 const toggleLeftDrawer = (): void => {
   leftDrawerOpen.value = !leftDrawerOpen.value;
 };
