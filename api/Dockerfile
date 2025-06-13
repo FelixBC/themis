@@ -1,5 +1,6 @@
 # API: Ruby on Rails container
-FROM ruby:3.2
+FROM ruby:3.2.3
+
 
 # Install system dependencies
 RUN apt-get update \
